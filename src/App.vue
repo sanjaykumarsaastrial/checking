@@ -103,7 +103,7 @@ watch(
 
       <h3>City : {{ stu.city }}</h3>
 
-      <h3>pincode :</h3>
+      <h3>pincode : 638401</h3>
 
       <p
         :style="{
